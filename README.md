@@ -119,6 +119,3 @@ Hence, the exploration of prompting techniques for AI-driven video generation wa
 
 
 
-
-# Result:
-
